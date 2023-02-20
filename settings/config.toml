@@ -1,0 +1,16 @@
+[development]
+    APP_NAME = "test"
+    SESSION_TIME_OUT_HOUR = 24
+    REDIS.USER = ''
+    REDIS.PASSWORD = '123456'
+    REDIS.DB = '0'
+    REDIS.HOST = 'localhost'
+    REDIS.PORT = 16379
+    MYSQL.USER = 'root'
+    MYSQL.PASSWORD = '123456'
+    MYSQL.DB = 'test'
+    MYSQL.HOST = '192.168.10.148'
+    MYSQL.PORT = 3306
+
+[production]
+    APP_NAME="test"

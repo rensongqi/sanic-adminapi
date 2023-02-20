@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://cdn.bootcdn.net/ajax/libs/js-sha1/0.6.0/sha1.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+</head>
+<body>
+<form method="post" onsubmit="return false">
+    username:<input type="text" name="username" autocomplete="off" value="向林"><br/>
+    password:<input type="password" name="password" autocomplete="off" value="123456"><br/>
+    code:<input type="text" name="code" autocomplete="off"><br/>
+    <img src="" id="code"/><button onclick="refulsh_code()">刷新</button><br/>
+    types:JWT<input type="radio" name="auth_types" value="jwt" checked>other<input type="radio" value="other" name="auth_types"><br/>
+    <button type="submit" onclick="sub_mit()">提交</button><span style="display: none;color: red;" id="result_msg"></span>
+</form>
+<script>
+    let ip = "http://172.31.10.148:8011"
+    function refulsh_code(){
+        $.ajax({
+            type: "get",
+            url: `${ip}/login/GetCaptcha`,
+            dataType: "json",
+            success: function (data) {
+                console.log(data)
+                if (data.code == '0') {
+                    $('#code').attr('src',data.data.img)
+                    console.log(document.cookie)
+                } else {
+                }
+            }
+        });
+    }
+    refulsh_code()
+    function sub_mit() {
+        var username=$("input[name=username]").val()
+        var password=$("input[name=password]").val()
+        var code=$("input[name=code]").val()
+        //var result_password=sha1(password)
+        var result={
+            user_id:username,
+            password:password,
+            code:code,
+        }
+        function setCookie(name,value,access_token_exp) {
+            var exp = new Date();
+            exp.setTime(Number(access_token_exp)*1000);
+            document.cookie = name + ("=" + (value) + ";expires=" + exp.toGMTString() + ";path=/;");
+        }
+        $.ajax({
+            type: "post",
+            url: `${ip}/login`,
+            data:JSON.stringify(result),
+            dataType: "json",
+            xhrFields: {
+                withCredentials: true
+            },
+            crossDomain:true,
+            success: function (data) {
+                console.log(data)
+                if (data.code === '0') {
+                    console.log("登录成功")
+
+                } else {
+                    refulsh_code()
+                    document.getElementById('result_msg').innerHTML=data.msg
+                    $('#result_msg').show()
+                }
+            }
+        });
+    }
+</script>
+</body>
+</html>

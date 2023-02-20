@@ -1,0 +1,6 @@
+sanic[ext]
+sanic-session
+toml
+tortoise-orm
+pillow
+aiomysql

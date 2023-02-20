@@ -1,0 +1,205 @@
+2022-11-28 15:03:34,340-sanic.root-manager.py-[line:162]-INFO-[日志信息]: Received signal SIGINT. Shutting down.
+2022-11-28 15:03:34,341-sanic.root-startup.py-[line:859]-INFO-[日志信息]: Server Stopped
+2022-11-28 15:03:34,698-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志格式【LOG_FORMATTER】，默认值:%(asctime)s-%(name)s-%(filename)s-[line:%(lineno)d]-%(levelname)s-[日志信息]: %(message)s
+2022-11-28 15:03:34,698-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【LOGGER_LEVEL】，默认值:DEBUG
+2022-11-28 15:03:34,698-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【FILE_LEVEL】，默认值:DEBUG
+2022-11-28 15:03:34,698-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【TERMINAL_LEVEL】，默认值:DEBUG
+2022-11-28 15:03:34,717-sanic.root-motd.py-[line:54]-INFO-[日志信息]: Sanic v22.9.1
+2022-11-28 15:03:34,717-sanic.root-motd.py-[line:54]-INFO-[日志信息]: Goin' Fast @ http://172.28.4.251:8003
+2022-11-28 15:03:34,717-sanic.root-motd.py-[line:54]-INFO-[日志信息]: mode: production, single worker
+2022-11-28 15:03:34,718-sanic.root-motd.py-[line:54]-INFO-[日志信息]: server: sanic, HTTP/1.1
+2022-11-28 15:03:34,718-sanic.root-motd.py-[line:54]-INFO-[日志信息]: python: 3.10.7
+2022-11-28 15:03:34,718-sanic.root-motd.py-[line:54]-INFO-[日志信息]: platform: Windows-10-10.0.19044-SP0
+2022-11-28 15:03:34,718-sanic.root-motd.py-[line:54]-INFO-[日志信息]: auto-reload: enabled
+2022-11-28 15:03:34,718-sanic.root-motd.py-[line:54]-INFO-[日志信息]: packages: sanic-routing==22.8.0
+2022-11-28 15:03:34,984-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志格式【LOG_FORMATTER】，默认值:%(asctime)s-%(name)s-%(filename)s-[line:%(lineno)d]-%(levelname)s-[日志信息]: %(message)s
+2022-11-28 15:03:34,984-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【LOGGER_LEVEL】，默认值:DEBUG
+2022-11-28 15:03:34,985-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【FILE_LEVEL】，默认值:DEBUG
+2022-11-28 15:03:34,985-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【TERMINAL_LEVEL】，默认值:DEBUG
+2022-11-28 15:03:34,995-asyncio-selector_events.py-[line:54]-DEBUG-[日志信息]: Using selector: SelectSelector
+2022-11-28 15:03:35,263-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志格式【LOG_FORMATTER】，默认值:%(asctime)s-%(name)s-%(filename)s-[line:%(lineno)d]-%(levelname)s-[日志信息]: %(message)s
+2022-11-28 15:03:35,263-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【LOGGER_LEVEL】，默认值:DEBUG
+2022-11-28 15:03:35,263-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【FILE_LEVEL】，默认值:DEBUG
+2022-11-28 15:03:35,263-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【TERMINAL_LEVEL】，默认值:DEBUG
+2022-11-28 15:03:35,263-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志格式【LOG_FORMATTER】，默认值:%(asctime)s-%(name)s-%(filename)s-[line:%(lineno)d]-%(levelname)s-[日志信息]: %(message)s
+2022-11-28 15:03:35,263-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【LOGGER_LEVEL】，默认值:DEBUG
+2022-11-28 15:03:35,263-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【FILE_LEVEL】，默认值:DEBUG
+2022-11-28 15:03:35,263-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【TERMINAL_LEVEL】，默认值:DEBUG
+2022-11-28 15:03:35,269-asyncio-proactor_events.py-[line:626]-DEBUG-[日志信息]: Using proactor: IocpProactor
+2022-11-28 15:03:35,274-asyncio-selector_events.py-[line:54]-DEBUG-[日志信息]: Using selector: SelectSelector
+2022-11-28 15:03:35,297-sanic.server-runners.py-[line:152]-INFO-[日志信息]: Starting worker [23980]
+2022-11-28 15:03:35,298-sanic.access-http1.py-[line:472]-INFO-[日志信息]: 
+2022-11-28 15:03:35,317-sanic.root-server.py-[line:172]-INFO-[日志信息]: connection open
+2022-11-28 15:03:35,319-sanic.access-http1.py-[line:472]-INFO-[日志信息]: 
+2022-11-28 15:03:35,319-sanic.access-http1.py-[line:472]-INFO-[日志信息]: 
+2022-11-28 15:05:34,917-sanic.root-manager.py-[line:162]-INFO-[日志信息]: Received signal SIGINT. Shutting down.
+2022-11-28 15:05:34,918-sanic.root-startup.py-[line:859]-INFO-[日志信息]: Server Stopped
+2022-11-28 15:05:35,275-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志格式【LOG_FORMATTER】，默认值:%(asctime)s-%(name)s-%(filename)s-[line:%(lineno)d]-%(levelname)s-[日志信息]: %(message)s
+2022-11-28 15:05:35,275-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【LOGGER_LEVEL】，默认值:DEBUG
+2022-11-28 15:05:35,275-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【FILE_LEVEL】，默认值:DEBUG
+2022-11-28 15:05:35,275-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【TERMINAL_LEVEL】，默认值:DEBUG
+2022-11-28 15:05:35,293-sanic.root-motd.py-[line:54]-INFO-[日志信息]: Sanic v22.9.1
+2022-11-28 15:05:35,293-sanic.root-motd.py-[line:54]-INFO-[日志信息]: Goin' Fast @ http://172.28.4.251:8003
+2022-11-28 15:05:35,293-sanic.root-motd.py-[line:54]-INFO-[日志信息]: mode: production, single worker
+2022-11-28 15:05:35,294-sanic.root-motd.py-[line:54]-INFO-[日志信息]: server: sanic, HTTP/1.1
+2022-11-28 15:05:35,294-sanic.root-motd.py-[line:54]-INFO-[日志信息]: python: 3.10.7
+2022-11-28 15:05:35,294-sanic.root-motd.py-[line:54]-INFO-[日志信息]: platform: Windows-10-10.0.19044-SP0
+2022-11-28 15:05:35,294-sanic.root-motd.py-[line:54]-INFO-[日志信息]: auto-reload: enabled
+2022-11-28 15:05:35,294-sanic.root-motd.py-[line:54]-INFO-[日志信息]: packages: sanic-routing==22.8.0
+2022-11-28 15:05:35,557-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志格式【LOG_FORMATTER】，默认值:%(asctime)s-%(name)s-%(filename)s-[line:%(lineno)d]-%(levelname)s-[日志信息]: %(message)s
+2022-11-28 15:05:35,558-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【LOGGER_LEVEL】，默认值:DEBUG
+2022-11-28 15:05:35,558-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【FILE_LEVEL】，默认值:DEBUG
+2022-11-28 15:05:35,558-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【TERMINAL_LEVEL】，默认值:DEBUG
+2022-11-28 15:05:35,568-asyncio-selector_events.py-[line:54]-DEBUG-[日志信息]: Using selector: SelectSelector
+2022-11-28 15:05:35,846-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志格式【LOG_FORMATTER】，默认值:%(asctime)s-%(name)s-%(filename)s-[line:%(lineno)d]-%(levelname)s-[日志信息]: %(message)s
+2022-11-28 15:05:35,846-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【LOGGER_LEVEL】，默认值:DEBUG
+2022-11-28 15:05:35,846-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【FILE_LEVEL】，默认值:DEBUG
+2022-11-28 15:05:35,846-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【TERMINAL_LEVEL】，默认值:DEBUG
+2022-11-28 15:05:35,846-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志格式【LOG_FORMATTER】，默认值:%(asctime)s-%(name)s-%(filename)s-[line:%(lineno)d]-%(levelname)s-[日志信息]: %(message)s
+2022-11-28 15:05:35,846-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【LOGGER_LEVEL】，默认值:DEBUG
+2022-11-28 15:05:35,846-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【FILE_LEVEL】，默认值:DEBUG
+2022-11-28 15:05:35,846-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【TERMINAL_LEVEL】，默认值:DEBUG
+2022-11-28 15:05:35,852-asyncio-proactor_events.py-[line:626]-DEBUG-[日志信息]: Using proactor: IocpProactor
+2022-11-28 15:05:35,857-asyncio-selector_events.py-[line:54]-DEBUG-[日志信息]: Using selector: SelectSelector
+2022-11-28 15:05:35,881-sanic.server-runners.py-[line:152]-INFO-[日志信息]: Starting worker [36048]
+2022-11-28 15:05:36,314-sanic.access-http1.py-[line:472]-INFO-[日志信息]: 
+2022-11-28 15:05:36,329-sanic.root-server.py-[line:172]-INFO-[日志信息]: connection open
+2022-11-28 15:05:36,330-sanic.access-http1.py-[line:472]-INFO-[日志信息]: 
+2022-11-28 15:05:36,331-sanic.access-http1.py-[line:472]-INFO-[日志信息]: 
+2022-11-28 15:05:36,332-sanic.access-http1.py-[line:472]-INFO-[日志信息]: 
+2022-11-28 15:05:52,906-sanic.root-manager.py-[line:162]-INFO-[日志信息]: Received signal SIGINT. Shutting down.
+2022-11-28 15:05:52,907-sanic.root-startup.py-[line:859]-INFO-[日志信息]: Server Stopped
+2022-11-28 15:05:53,259-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志格式【LOG_FORMATTER】，默认值:%(asctime)s-%(name)s-%(filename)s-[line:%(lineno)d]-%(levelname)s-[日志信息]: %(message)s
+2022-11-28 15:05:53,259-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【LOGGER_LEVEL】，默认值:DEBUG
+2022-11-28 15:05:53,259-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【FILE_LEVEL】，默认值:DEBUG
+2022-11-28 15:05:53,259-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【TERMINAL_LEVEL】，默认值:DEBUG
+2022-11-28 15:05:53,279-sanic.root-motd.py-[line:54]-INFO-[日志信息]: Sanic v22.9.1
+2022-11-28 15:05:53,279-sanic.root-motd.py-[line:54]-INFO-[日志信息]: Goin' Fast @ http://172.28.4.251:8003
+2022-11-28 15:05:53,279-sanic.root-motd.py-[line:54]-INFO-[日志信息]: mode: production, single worker
+2022-11-28 15:05:53,279-sanic.root-motd.py-[line:54]-INFO-[日志信息]: server: sanic, HTTP/1.1
+2022-11-28 15:05:53,279-sanic.root-motd.py-[line:54]-INFO-[日志信息]: python: 3.10.7
+2022-11-28 15:05:53,279-sanic.root-motd.py-[line:54]-INFO-[日志信息]: platform: Windows-10-10.0.19044-SP0
+2022-11-28 15:05:53,279-sanic.root-motd.py-[line:54]-INFO-[日志信息]: auto-reload: enabled
+2022-11-28 15:05:53,279-sanic.root-motd.py-[line:54]-INFO-[日志信息]: packages: sanic-routing==22.8.0
+2022-11-28 15:05:53,544-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志格式【LOG_FORMATTER】，默认值:%(asctime)s-%(name)s-%(filename)s-[line:%(lineno)d]-%(levelname)s-[日志信息]: %(message)s
+2022-11-28 15:05:53,544-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【LOGGER_LEVEL】，默认值:DEBUG
+2022-11-28 15:05:53,544-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【FILE_LEVEL】，默认值:DEBUG
+2022-11-28 15:05:53,544-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【TERMINAL_LEVEL】，默认值:DEBUG
+2022-11-28 15:05:53,554-asyncio-selector_events.py-[line:54]-DEBUG-[日志信息]: Using selector: SelectSelector
+2022-11-28 15:05:53,830-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志格式【LOG_FORMATTER】，默认值:%(asctime)s-%(name)s-%(filename)s-[line:%(lineno)d]-%(levelname)s-[日志信息]: %(message)s
+2022-11-28 15:05:53,831-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志格式【LOG_FORMATTER】，默认值:%(asctime)s-%(name)s-%(filename)s-[line:%(lineno)d]-%(levelname)s-[日志信息]: %(message)s
+2022-11-28 15:05:53,831-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【LOGGER_LEVEL】，默认值:DEBUG
+2022-11-28 15:05:53,831-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【LOGGER_LEVEL】，默认值:DEBUG
+2022-11-28 15:05:53,831-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【FILE_LEVEL】，默认值:DEBUG
+2022-11-28 15:05:53,831-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【FILE_LEVEL】，默认值:DEBUG
+2022-11-28 15:05:53,831-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【TERMINAL_LEVEL】，默认值:DEBUG
+2022-11-28 15:05:53,831-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【TERMINAL_LEVEL】，默认值:DEBUG
+2022-11-28 15:05:53,839-asyncio-proactor_events.py-[line:626]-DEBUG-[日志信息]: Using proactor: IocpProactor
+2022-11-28 15:05:53,843-asyncio-selector_events.py-[line:54]-DEBUG-[日志信息]: Using selector: SelectSelector
+2022-11-28 15:05:53,865-sanic.server-runners.py-[line:152]-INFO-[日志信息]: Starting worker [38460]
+2022-11-28 15:05:53,883-sanic.root-server.py-[line:172]-INFO-[日志信息]: connection open
+2022-11-28 15:07:42,682-sanic.root-manager.py-[line:162]-INFO-[日志信息]: Received signal SIGINT. Shutting down.
+2022-11-28 15:07:42,684-sanic.root-startup.py-[line:859]-INFO-[日志信息]: Server Stopped
+2022-11-28 15:07:43,020-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志格式【LOG_FORMATTER】，默认值:%(asctime)s-%(name)s-%(filename)s-[line:%(lineno)d]-%(levelname)s-[日志信息]: %(message)s
+2022-11-28 15:07:43,020-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【LOGGER_LEVEL】，默认值:DEBUG
+2022-11-28 15:07:43,020-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【FILE_LEVEL】，默认值:DEBUG
+2022-11-28 15:07:43,020-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【TERMINAL_LEVEL】，默认值:DEBUG
+2022-11-28 15:07:43,040-sanic.root-motd.py-[line:54]-INFO-[日志信息]: Sanic v22.9.1
+2022-11-28 15:07:43,041-sanic.root-motd.py-[line:54]-INFO-[日志信息]: Goin' Fast @ http://172.28.4.251:8003
+2022-11-28 15:07:43,041-sanic.root-motd.py-[line:54]-INFO-[日志信息]: mode: production, single worker
+2022-11-28 15:07:43,041-sanic.root-motd.py-[line:54]-INFO-[日志信息]: server: sanic, HTTP/1.1
+2022-11-28 15:07:43,041-sanic.root-motd.py-[line:54]-INFO-[日志信息]: python: 3.10.7
+2022-11-28 15:07:43,041-sanic.root-motd.py-[line:54]-INFO-[日志信息]: platform: Windows-10-10.0.19044-SP0
+2022-11-28 15:07:43,041-sanic.root-motd.py-[line:54]-INFO-[日志信息]: auto-reload: enabled
+2022-11-28 15:07:43,041-sanic.root-motd.py-[line:54]-INFO-[日志信息]: packages: sanic-routing==22.8.0
+2022-11-28 15:07:43,309-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志格式【LOG_FORMATTER】，默认值:%(asctime)s-%(name)s-%(filename)s-[line:%(lineno)d]-%(levelname)s-[日志信息]: %(message)s
+2022-11-28 15:07:43,309-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【LOGGER_LEVEL】，默认值:DEBUG
+2022-11-28 15:07:43,309-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【FILE_LEVEL】，默认值:DEBUG
+2022-11-28 15:07:43,309-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【TERMINAL_LEVEL】，默认值:DEBUG
+2022-11-28 15:07:43,320-asyncio-selector_events.py-[line:54]-DEBUG-[日志信息]: Using selector: SelectSelector
+2022-11-28 15:07:43,603-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志格式【LOG_FORMATTER】，默认值:%(asctime)s-%(name)s-%(filename)s-[line:%(lineno)d]-%(levelname)s-[日志信息]: %(message)s
+2022-11-28 15:07:43,603-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【LOGGER_LEVEL】，默认值:DEBUG
+2022-11-28 15:07:43,603-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【FILE_LEVEL】，默认值:DEBUG
+2022-11-28 15:07:43,603-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【TERMINAL_LEVEL】，默认值:DEBUG
+2022-11-28 15:07:43,603-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志格式【LOG_FORMATTER】，默认值:%(asctime)s-%(name)s-%(filename)s-[line:%(lineno)d]-%(levelname)s-[日志信息]: %(message)s
+2022-11-28 15:07:43,603-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【LOGGER_LEVEL】，默认值:DEBUG
+2022-11-28 15:07:43,603-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【FILE_LEVEL】，默认值:DEBUG
+2022-11-28 15:07:43,604-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【TERMINAL_LEVEL】，默认值:DEBUG
+2022-11-28 15:07:43,610-asyncio-proactor_events.py-[line:626]-DEBUG-[日志信息]: Using proactor: IocpProactor
+2022-11-28 15:07:43,614-asyncio-selector_events.py-[line:54]-DEBUG-[日志信息]: Using selector: SelectSelector
+2022-11-28 15:07:43,638-sanic.server-runners.py-[line:152]-INFO-[日志信息]: Starting worker [35536]
+2022-11-28 15:07:43,986-sanic.root-server.py-[line:172]-INFO-[日志信息]: connection open
+2022-11-28 15:09:46,330-sanic.root-manager.py-[line:162]-INFO-[日志信息]: Received signal SIGINT. Shutting down.
+2022-11-28 15:09:46,331-sanic.root-startup.py-[line:859]-INFO-[日志信息]: Server Stopped
+2022-11-28 15:44:30,651-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志格式【LOG_FORMATTER】，默认值:%(asctime)s-%(name)s-%(filename)s-[line:%(lineno)d]-%(levelname)s-[日志信息]: %(message)s
+2022-11-28 15:44:30,651-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【LOGGER_LEVEL】，默认值:DEBUG
+2022-11-28 15:44:30,651-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【FILE_LEVEL】，默认值:DEBUG
+2022-11-28 15:44:30,651-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【TERMINAL_LEVEL】，默认值:DEBUG
+2022-11-28 15:44:30,670-sanic.root-motd.py-[line:54]-INFO-[日志信息]: Sanic v22.9.1
+2022-11-28 15:44:30,671-sanic.root-motd.py-[line:54]-INFO-[日志信息]: Goin' Fast @ http://172.28.4.251:8003
+2022-11-28 15:44:30,671-sanic.root-motd.py-[line:54]-INFO-[日志信息]: mode: production, single worker
+2022-11-28 15:44:30,671-sanic.root-motd.py-[line:54]-INFO-[日志信息]: server: sanic, HTTP/1.1
+2022-11-28 15:44:30,671-sanic.root-motd.py-[line:54]-INFO-[日志信息]: python: 3.10.7
+2022-11-28 15:44:30,671-sanic.root-motd.py-[line:54]-INFO-[日志信息]: platform: Windows-10-10.0.19044-SP0
+2022-11-28 15:44:30,671-sanic.root-motd.py-[line:54]-INFO-[日志信息]: auto-reload: enabled
+2022-11-28 15:44:30,671-sanic.root-motd.py-[line:54]-INFO-[日志信息]: packages: sanic-routing==22.8.0
+2022-11-28 15:44:30,939-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志格式【LOG_FORMATTER】，默认值:%(asctime)s-%(name)s-%(filename)s-[line:%(lineno)d]-%(levelname)s-[日志信息]: %(message)s
+2022-11-28 15:44:30,939-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【LOGGER_LEVEL】，默认值:DEBUG
+2022-11-28 15:44:30,939-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【FILE_LEVEL】，默认值:DEBUG
+2022-11-28 15:44:30,939-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【TERMINAL_LEVEL】，默认值:DEBUG
+2022-11-28 15:44:30,949-asyncio-selector_events.py-[line:54]-DEBUG-[日志信息]: Using selector: SelectSelector
+2022-11-28 15:44:31,217-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志格式【LOG_FORMATTER】，默认值:%(asctime)s-%(name)s-%(filename)s-[line:%(lineno)d]-%(levelname)s-[日志信息]: %(message)s
+2022-11-28 15:44:31,218-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【LOGGER_LEVEL】，默认值:DEBUG
+2022-11-28 15:44:31,218-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【FILE_LEVEL】，默认值:DEBUG
+2022-11-28 15:44:31,218-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【TERMINAL_LEVEL】，默认值:DEBUG
+2022-11-28 15:44:31,218-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志格式【LOG_FORMATTER】，默认值:%(asctime)s-%(name)s-%(filename)s-[line:%(lineno)d]-%(levelname)s-[日志信息]: %(message)s
+2022-11-28 15:44:31,218-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【LOGGER_LEVEL】，默认值:DEBUG
+2022-11-28 15:44:31,218-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【FILE_LEVEL】，默认值:DEBUG
+2022-11-28 15:44:31,218-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【TERMINAL_LEVEL】，默认值:DEBUG
+2022-11-28 15:44:31,224-asyncio-proactor_events.py-[line:626]-DEBUG-[日志信息]: Using proactor: IocpProactor
+2022-11-28 15:44:31,228-asyncio-selector_events.py-[line:54]-DEBUG-[日志信息]: Using selector: SelectSelector
+2022-11-28 15:44:31,252-sanic.server-runners.py-[line:152]-INFO-[日志信息]: Starting worker [45712]
+2022-11-28 15:44:31,253-core.middlewares.timer-timer.py-[line:28]-WARNING-[日志信息]: test.handle_request, response timeout: 0.000999
+2022-11-28 15:44:31,253-sanic.access-http1.py-[line:472]-INFO-[日志信息]: 
+2022-11-28 15:44:31,270-sanic.root-server.py-[line:172]-INFO-[日志信息]: connection open
+2022-11-28 15:44:31,271-core.middlewares.timer-timer.py-[line:28]-WARNING-[日志信息]: test.handle_request, response timeout: 0.001995
+2022-11-28 15:44:31,271-sanic.access-http1.py-[line:472]-INFO-[日志信息]: 
+2022-11-28 15:44:31,271-core.middlewares.timer-timer.py-[line:28]-WARNING-[日志信息]: test.handle_request, response timeout: 0.002956
+2022-11-28 15:44:31,271-sanic.access-http1.py-[line:472]-INFO-[日志信息]: 
+2022-11-28 15:45:14,589-sanic.root-manager.py-[line:162]-INFO-[日志信息]: Received signal SIGINT. Shutting down.
+2022-11-28 15:45:14,590-sanic.root-startup.py-[line:859]-INFO-[日志信息]: Server Stopped
+2022-11-28 15:45:14,947-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志格式【LOG_FORMATTER】，默认值:%(asctime)s-%(name)s-%(filename)s-[line:%(lineno)d]-%(levelname)s-[日志信息]: %(message)s
+2022-11-28 15:45:14,947-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【LOGGER_LEVEL】，默认值:DEBUG
+2022-11-28 15:45:14,947-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【FILE_LEVEL】，默认值:DEBUG
+2022-11-28 15:45:14,947-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【TERMINAL_LEVEL】，默认值:DEBUG
+2022-11-28 15:45:14,966-sanic.root-motd.py-[line:54]-INFO-[日志信息]: Sanic v22.9.1
+2022-11-28 15:45:14,966-sanic.root-motd.py-[line:54]-INFO-[日志信息]: Goin' Fast @ http://172.28.4.251:8003
+2022-11-28 15:45:14,967-sanic.root-motd.py-[line:54]-INFO-[日志信息]: mode: production, single worker
+2022-11-28 15:45:14,967-sanic.root-motd.py-[line:54]-INFO-[日志信息]: server: sanic, HTTP/1.1
+2022-11-28 15:45:14,967-sanic.root-motd.py-[line:54]-INFO-[日志信息]: python: 3.10.7
+2022-11-28 15:45:14,967-sanic.root-motd.py-[line:54]-INFO-[日志信息]: platform: Windows-10-10.0.19044-SP0
+2022-11-28 15:45:14,967-sanic.root-motd.py-[line:54]-INFO-[日志信息]: auto-reload: enabled
+2022-11-28 15:45:14,967-sanic.root-motd.py-[line:54]-INFO-[日志信息]: packages: sanic-routing==22.8.0
+2022-11-28 15:45:15,232-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志格式【LOG_FORMATTER】，默认值:%(asctime)s-%(name)s-%(filename)s-[line:%(lineno)d]-%(levelname)s-[日志信息]: %(message)s
+2022-11-28 15:45:15,232-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【LOGGER_LEVEL】，默认值:DEBUG
+2022-11-28 15:45:15,232-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【FILE_LEVEL】，默认值:DEBUG
+2022-11-28 15:45:15,232-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【TERMINAL_LEVEL】，默认值:DEBUG
+2022-11-28 15:45:15,242-asyncio-selector_events.py-[line:54]-DEBUG-[日志信息]: Using selector: SelectSelector
+2022-11-28 15:45:15,515-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志格式【LOG_FORMATTER】，默认值:%(asctime)s-%(name)s-%(filename)s-[line:%(lineno)d]-%(levelname)s-[日志信息]: %(message)s
+2022-11-28 15:45:15,515-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【LOGGER_LEVEL】，默认值:DEBUG
+2022-11-28 15:45:15,515-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【FILE_LEVEL】，默认值:DEBUG
+2022-11-28 15:45:15,516-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【TERMINAL_LEVEL】，默认值:DEBUG
+2022-11-28 15:45:15,517-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志格式【LOG_FORMATTER】，默认值:%(asctime)s-%(name)s-%(filename)s-[line:%(lineno)d]-%(levelname)s-[日志信息]: %(message)s
+2022-11-28 15:45:15,517-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【LOGGER_LEVEL】，默认值:DEBUG
+2022-11-28 15:45:15,517-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【FILE_LEVEL】，默认值:DEBUG
+2022-11-28 15:45:15,517-root-logger.py-[line:80]-INFO-[日志信息]: 配置文件未定义日志级别【TERMINAL_LEVEL】，默认值:DEBUG
+2022-11-28 15:45:15,523-asyncio-proactor_events.py-[line:626]-DEBUG-[日志信息]: Using proactor: IocpProactor
+2022-11-28 15:45:15,526-asyncio-selector_events.py-[line:54]-DEBUG-[日志信息]: Using selector: SelectSelector
+2022-11-28 15:45:15,550-sanic.server-runners.py-[line:152]-INFO-[日志信息]: Starting worker [16540]
+2022-11-28 15:45:15,580-core.middlewares.timer-timer.py-[line:28]-WARNING-[日志信息]: test.handle_request, response timeout: 0.000000
+2022-11-28 15:45:15,584-sanic.root-server.py-[line:172]-INFO-[日志信息]: connection open
+2022-11-28 15:45:15,585-core.middlewares.timer-timer.py-[line:28]-WARNING-[日志信息]: test.handle_request, response timeout: 0.000997
+2022-11-28 15:45:15,586-core.middlewares.timer-timer.py-[line:28]-WARNING-[日志信息]: test.handle_request, response timeout: 0.003988
+2022-11-28 15:45:15,586-core.middlewares.timer-timer.py-[line:28]-WARNING-[日志信息]: test.handle_request, response timeout: 0.000000
+2022-11-28 15:47:03,933-sanic.root-manager.py-[line:162]-INFO-[日志信息]: Received signal SIGINT. Shutting down.
+2022-11-28 15:47:03,934-sanic.root-startup.py-[line:859]-INFO-[日志信息]: Server Stopped
